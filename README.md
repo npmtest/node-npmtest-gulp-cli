@@ -1,6 +1,6 @@
 # npmtest-gulp-cli
 
-#### test coverage for  [gulp-cli (v1.2.2)](http://gulpjs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-cli.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-cli)
+#### basic test coverage for  [gulp-cli (v1.2.2)](http://gulpjs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-cli.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-cli)
 
 #### Command line interface for gulp
 
